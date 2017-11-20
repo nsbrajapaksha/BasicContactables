@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:18:1-50:12
+	package
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:19:5-52
+	android:versionName
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:24:22-69
+permission#android
+ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:27:5-53
+	android:name
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:27:17-39
+application
+ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:29:5-49:19
+MERGED from [com.android.support:support-v13:25.0.1] /home/user/.android/build-cache/e54c7446de351bca319f432bbc41cb5702eac393/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] /home/user/.android/build-cache/908f0dd4b10f1c835b7711866e3498def1a70871/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/user/.android/build-cache/6cffc4f2d9f038bb2d5f206de0e69338c5eaefdb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] /home/user/.android/build-cache/a009c6baf941059db06c6da71f535d7a833e0bfd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /home/user/.android/build-cache/fd3101596b0c49d577ebb4a085c7bba7d96c37a0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/user/.android/build-cache/5a1c5dcb2a2af29bd87eef0ce05b02b4ac08e854/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/user/.android/build-cache/8713a57782b85e05099dee10c66b82436ff2ede6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/user/.android/build-cache/db02820aaa0e4845daddd6528c848b2f16bab0f9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/user/.android/build-cache/caa24cd709c573b05ff71a0639b60dd152df53c1/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/user/.android/build-cache/7392a4564c5169ec1a9d6c3aa98af609edc79b90/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /home/user/.android/build-cache/cece196fe08c25a67e0ad7ce0c55691407d66c70/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:32:9-41
+	android:allowBackup
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:31:9-45
+	android:theme
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:33:9-44
+activity#com.example.android.basiccontactables.MainActivity
+ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:34:9-48:20
+	android:label
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:36:13-45
+	android:launchMode
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:35:13-78
+meta-data#android.app.searchable
+ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:38:13-40:54
+	android:resource
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:40:17-51
+	android:name
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:39:17-54
+intent-filter#android.intent.action.SEARCH
+ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:41:13-43:29
+action#android.intent.action.SEARCH
+ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:42:17-71
+	android:name
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:42:25-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.0.1] /home/user/.android/build-cache/e54c7446de351bca319f432bbc41cb5702eac393/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.0.1] /home/user/.android/build-cache/908f0dd4b10f1c835b7711866e3498def1a70871/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/user/.android/build-cache/6cffc4f2d9f038bb2d5f206de0e69338c5eaefdb/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] /home/user/.android/build-cache/a009c6baf941059db06c6da71f535d7a833e0bfd/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] /home/user/.android/build-cache/fd3101596b0c49d577ebb4a085c7bba7d96c37a0/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/user/.android/build-cache/5a1c5dcb2a2af29bd87eef0ce05b02b4ac08e854/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/user/.android/build-cache/8713a57782b85e05099dee10c66b82436ff2ede6/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/user/.android/build-cache/db02820aaa0e4845daddd6528c848b2f16bab0f9/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/user/.android/build-cache/caa24cd709c573b05ff71a0639b60dd152df53c1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/user/.android/build-cache/7392a4564c5169ec1a9d6c3aa98af609edc79b90/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] /home/user/.android/build-cache/cece196fe08c25a67e0ad7ce0c55691407d66c70/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.0.1] /home/user/.android/build-cache/e54c7446de351bca319f432bbc41cb5702eac393/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Documents/BasicContactables/Application/src/main/AndroidManifest.xml

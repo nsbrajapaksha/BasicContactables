@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user/Documents/BasicContactables/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/user/Documents/BasicContactables/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/Documents/BasicContactables/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_search_api_holo_light.png",
+        "source": "/home/user/Documents/BasicContactables/Application/src/main/res/drawable-mdpi/ic_search_api_holo_light.png"
+    }
+]

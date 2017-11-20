@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/user/Documents/BasicContactables/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/user/Documents/BasicContactables/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/Documents/BasicContactables/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/user/Documents/BasicContactables/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/user/Documents/BasicContactables/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_search_api_holo_light.png",
+        "source": "/home/user/Documents/BasicContactables/Application/src/main/res/drawable-hdpi/ic_search_api_holo_light.png"
+    }
+]
